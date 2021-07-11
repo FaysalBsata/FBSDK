@@ -1,6 +1,6 @@
 {
   "name": "@faysalbsata/fbsdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "FBSDK Node_Modules updated",
   "main": "/src/index.js",
   "directories": {
