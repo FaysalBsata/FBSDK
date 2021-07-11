@@ -77,7 +77,7 @@ Make the following changes:
 #### `android/settings.gradle`
 ```groovy
 include ':react-native-fbsdk'
-project(':react-native-fbsdk').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-fbsdk/android')
+project(':react-native-fbsdk').projectDir = new File(rootProject.projectDir, '../node_modules/@faysalbsata/fbsdk/android')
 ```
 
 #### `android/app/build.gradle`
